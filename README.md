@@ -119,6 +119,18 @@ books-api/
 ```
 
 ---
+Screenshots :-
 
-## ⚠️ Note
-Data is stored **in memory** — it resets every time the server restarts.
+## 📸 API Outputs
+
+### GET /books
+![GET Books](./screenshots/get.png)
+
+### POST /books
+![POST Book](./screenshots/post.png)
+
+### PUT /books/:id
+![PUT Book](./screenshots/put.png)
+
+### DELETE /books/:id
+![DELETE Book](./screenshots/delete.png)
